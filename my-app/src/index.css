@@ -18,8 +18,8 @@ body {
   }
   
   .square {
-    background: #fff;
-    border: 1px solid #999;
+    background: #c47a7a;
+    border: 1px solid #ffffff;
     float: left;
     font-size: 24px;
     font-weight: bold;
@@ -30,6 +30,7 @@ body {
     padding: 0;
     text-align: center;
     width: 34px;
+    color: white;
   }
   
   .square:focus {
